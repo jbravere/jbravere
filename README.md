@@ -9,10 +9,10 @@
 - 💻 Estou trabalhando no meu portfolio   
   
 
-- 🌱 Atualmente estou aprendendo sobre cibersegurança e ciência de dados  
+- 🌱 Atualmente estou aprendendo sobre ciência de dados e backend
   
 
-- 🔍 Na saga de conseguir um estágio  
+- 🔍 Na saga de conseguir um emprego  
   
 
 <br/>  
